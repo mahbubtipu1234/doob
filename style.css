@@ -1,0 +1,42 @@
+header{
+   
+}
+.menu{
+    display: inline-block;
+    margin-bottom: 20px;
+}
+.menu ul{
+    margin-top: 30px;
+    list-style: none;
+    
+}
+.menu ul li{
+    display: inline-block;
+    padding: 10px;
+}
+button{
+    margin-top: 0px;
+    padding-top: 0px;
+}
+
+/* banner start  */
+.banner_img{
+    float: right;
+}
+/* banner end  */
+/* feature start  */
+button{
+    color: brown;
+    background-color: rgb(244, 19, 236);
+    border-radius: 20px;
+    font-size: 25px;
+}
+.f_1{
+    float: right;
+    padding-left: 10px;
+    padding-bottom: 50px;
+}
+.card img{
+    padding-left: 15px;
+}
+/* feature end  */
